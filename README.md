@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World</h1>
 - 💬 꾸준히 성장하고 새로운 것을 배우려는 백엔드 개발자가 되려고 노력하고 있습니다. <br>
-- 📫 답을 찾기보다 개선할 수 있는 더 나은 방법을 찾. <br>
+- 📫 답을 찾기보다 개선할 수 있는 더 나은 방법을 찾고자 합니다. <br>
 - 👯 OOP와 대용량 트래픽에 관심이 많습니다.
 
 <br>
