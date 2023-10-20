@@ -28,7 +28,11 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
 </div>
 
+<br>
+<br>
 
+### Education
+- F-Lab Java Backend &nbsp;<sub>(Dec 2022 - June 2023)
 
 <br>
 
